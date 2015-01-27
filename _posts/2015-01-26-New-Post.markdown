@@ -1,0 +1,12 @@
+---
+title:  "An Excerpt From The Memoirs of Usman Anwar - What I Learned At Code School on January 26th"
+---
+
+Command line:
+You can remove directories or files using the rm -rf command. The -rf flags specify 'recursive' and 'yes' to delete the files without any other prompts. I also learned you can create files using the 'touch' command. I would be interested in learning how you can copy and move files around as well.
+
+Git and version control:
+A file will not be committed until it has been added to the stage. The stage is the list of files  and their corresponding changes that are ready to be committed to the timeline. The timeline can be accessed with 'git log'. Other useful commands are git init, add, and commit. Importantly, if changes have been made to a file after it had been added to the stage, those changes will not be staged or committed. 
+
+Ruby:
+Ruby is awesome for loops. You literally can't physically beat the awesomeness of the iterator methods it has for arrays and hashes, or the number of ways you can do loops. I definitely needed the review, as I've been away from Ruby for a few weeks, so familiarizing myself with the syntax again was helpful. I'm looking forward to learning about situations where I can understand the full power of using classes.
