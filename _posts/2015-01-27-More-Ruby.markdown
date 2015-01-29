@@ -1,0 +1,6 @@
+---
+title:  "An Excerpt From My Memoirs - What I Learned At Code School on January 27th"
+---
+
+I learned the importance of the single responsibility principle with the example that was given in class. Formatting and output should ideally be handled in different methods or classes. It's just a better way to organize code, and can improve efficiency and enhance readability.
+I also learned that you don't need to worry about the length of variable names. The enhanced clarity you gain from specific names outweighs the benefit you may receive from using shorthand. 
